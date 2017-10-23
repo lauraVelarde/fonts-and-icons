@@ -1,0 +1,35 @@
+body{
+    text-align: auto;
+}
+
+.menu {
+    display: inline-table;
+    border: 2px solid #DC25EE;
+    text-align: center;
+    box-sizing: border-box;
+    width: 228px;
+    height: 321px;
+    margin: 3px;
+    padding: 7px;
+    
+}
+
+.phase{
+    text-align: justify;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: small;
+    padding: 0;
+}
+
+h2{
+    font-family: 'Pacifico', cursive;
+}
+
+h3{
+    font-family: 'Catamaran', sans-serif;
+    padding: 0;
+}
+span{
+    font-size: 50px;
+    color:#18EEC4;
+}
